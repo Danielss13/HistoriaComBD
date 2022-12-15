@@ -1,9 +1,7 @@
 # HistoriaComBD
 Nessa atividade proposta pelo meu professor no Instituto Proa, eu criei um Banco de Dados nas planilhas GoogleSheets criando um grafico sobre o Banco de Dados em: https://storyline.knightlab.com e uma pagina em HTML, CSS com Bootstrap
 
-## Descrição da Atividade
-
-É possível contar histórias com um banco de dados?
+## É possível contar histórias com um banco de dados?
 SIM! 
 
 E é isso que você vai fazer agora. 
